@@ -3,7 +3,7 @@
 <h1 align="center">Greetings everyone</h1>
 <h2 align="center">I am a practitioner of Cybersecurity and Machine Learning. I intend to specialize in Offensive Security in the near future. </h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x00000000000000000000" alt="0x00000000000000000000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x00000000000000000000" alt="0x00000000000000000000" /></a> </p>
 
 <h2 align="center">Languages and Tools I Have Used So Far:</h2>
 
