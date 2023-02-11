@@ -1,5 +1,5 @@
 # About Me :
-I am an avid practitioner of Cybersecurity and Machine Learning. I specialize in Penetration Testing and Ethical Hacking and recently became OSCP-Certified.
+I am an avid practitioner of Cybersecurity and Machine Learning. I specialize in Penetration Testing and Exploit Development and recently became OSCP-Certified.
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-verma-b51811173) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0x000000000) 
